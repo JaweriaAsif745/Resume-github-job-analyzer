@@ -1,0 +1,106 @@
+python
+java
+c++
+c
+c#
+javascript
+typescript
+html
+css
+react
+nodejs
+express
+angular
+vue
+django
+flask
+fastapi
+sql
+mysql
+postgresql
+mongodb
+firebase
+oracle
+sqlite
+git
+github
+bitbucket
+docker
+kubernetes
+aws
+azure
+gcp
+linux
+bash
+shell scripting
+
+machine learning
+deep learning
+computer vision
+natural language processing
+nlp
+data science
+artificial intelligence
+statistics
+data analysis
+data mining
+data visualization
+predictive modeling
+feature engineering
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit learn
+scikit-learn
+tensorflow
+pytorch
+keras
+open cv
+opencv
+mediapipe
+transformers
+huggingface
+
+rest api
+api development
+microservices
+devops
+mlops
+ci cd
+jenkins
+terraform
+
+excel
+power bi
+tableau
+communication
+presentation
+problem solving
+teamwork
+leadership
+critical thinking
+project management
+
+opencv
+streamlit
+flask
+django
+matlab
+stata
+spss
+
+graphql
+redis
+rabbitmq
+elasticsearch
+
+cloud computing
+docker compose
+nginx
+gunicorn
+uvicorn
+restful services
+scalability
+load balancing
