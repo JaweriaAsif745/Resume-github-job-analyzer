@@ -204,8 +204,7 @@ streamlit run app.py
 
 * The app uses unauthenticated GitHub requests by default; supplying a token via `GITHUB_TOKEN` is recommended.
 * Resume parsing is basic (text extraction) and may not perfectly preserve formatting.
-
-```
+  
 ```
 
 ## Usage notes & next steps
